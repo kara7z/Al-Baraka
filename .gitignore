@@ -1,5 +1,4 @@
-target/*
-!target/albaraka-1.0.0-jar-with-dependencies.jar
+target/
 *.class
 .idea/
 *.iml
